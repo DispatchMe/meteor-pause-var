@@ -1,6 +1,7 @@
 Package.describe({
-  name: 'pause-var',
-  summary: 'A reactive var that allows you to pause reactivity.'
+  name: 'dispatch:pause-var',
+  summary: 'A reactive var that allows you to pause reactivity.',
+  version: '1.0.0'
 });
 
 Package.onUse(function (api) {
